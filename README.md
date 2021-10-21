@@ -1,0 +1,2 @@
+# regional.console.stage
+TestSite
